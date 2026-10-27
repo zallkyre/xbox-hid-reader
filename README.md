@@ -139,4 +139,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-**LLM guide** — Read raw Xbox controller input on Windows with ctypes and hid.dll - sticks, triggers, buttons and paddles. No drivers, no pip installs. · Stack: Python · Entry: `xbox_hid.py` · License: MIT
+**LLM guide** — Read raw Xbox controller input on Windows with ctypes and hid.dll - sticks, triggers, buttons and paddles. No drivers, no pip installs. · Stack: Python · Entry: `xbox_hid.py` · License: MIT-0 - no conditions, resale allowed
